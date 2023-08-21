@@ -1,7 +1,7 @@
 # generate_html.rb
 
-# Generate a random number between 1 and 100
-random_number = rand(1..100)
+# Generate a random number between 1 and 1000
+random_number = rand(1..1000)
 
 # Create the HTML content
 html_content = <<-HTML
@@ -20,4 +20,4 @@ html_content = <<-HTML
 HTML
 
 # Write the HTML content to a file
-File.write("random_number.html", html_content)
+File.write("index.html", html_content)
