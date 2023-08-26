@@ -1,4 +1,4 @@
 /twitch https://twitch.tv
-/* /blog/:splat 200
 /b/* /blog/:splat 200
 /z/* https://www.zuyou.com.tw/:splat 200
+/* /blog/:splat 200
