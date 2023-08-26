@@ -1,2 +1,4 @@
-/home301 / 200
 /twitch https://twitch.tv
+/* /blog/:splat 200
+/b/* /blog/:splat 200
+/z/* https://www.zuyou.com.tw/:splat 200
